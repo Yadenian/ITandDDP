@@ -15,3 +15,18 @@ ____
 О нас
 
 ![Image alt](https://github.com/Yadenian/ITandDDP/blob/main/Pictures/about_us.png)
+
+
+Каталог товаров
+
+![Image alt](https://github.com/Yadenian/ITandDDP/blob/main/Pictures/catalog.png)
+
+
+Описание блюда
+
+![Image alt](https://github.com/Yadenian/ITandDDP/blob/main/Pictures/dish.png)
+
+
+Корзина товаров
+
+![Image alt](https://github.com/Yadenian/ITandDDP/blob/main/Pictures/cart.png)
