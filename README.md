@@ -6,3 +6,6 @@ ____
 
 Проект включает в себя магазин правильного питания без использования фреймворков
 ____
+
+Главная страница
+![Image alt](https://github.com/Yadenian/ITandDDP/blob/main/Pictures/main.png)
